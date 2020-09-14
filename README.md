@@ -4,7 +4,7 @@
 
 # Installation and compilation
 #### Installation
-After cloning the repository, you have nothing else to installed since it is in C and without external libraries !
+After cloning the repository, you have nothing else to install since it is in C and without external libraries !
     
 #### Compilation
 This programs compilate a library named "libmy.a" which can be used in your programs.
